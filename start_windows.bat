@@ -1,7 +1,7 @@
-﻿@echo off
+@echo off
 color 0A
 echo =====================================================================
-echo    SIH 2024: Blockchain-Based Digital Evidence Management System
+echo    SIH 2026: Blockchain-Based Digital Evidence Management System
 echo =====================================================================
 echo.
 
